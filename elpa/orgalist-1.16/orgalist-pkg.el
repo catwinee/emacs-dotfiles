@@ -1,0 +1,2 @@
+;; Generated package description from orgalist.el  -*- no-byte-compile: t -*-
+(define-package "orgalist" "1.16" "Manage Org-like lists in non-Org buffers" '((emacs "26.1")) :commit "1f540f645eeb338019750d4dca3c056a1f5eca6d" :url "https://elpa.gnu.org/packages/orgalist.html" :authors '(("Nicolas Goaziou" . "mail@nicolasgoaziou.fr")) :maintainer '("Nicolas Goaziou" . "mail@nicolasgoaziou.fr") :keywords '("convenience"))

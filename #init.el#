@@ -1,0 +1,7 @@
+;; show line number
+(global-display-line-numbers-mode 1)
+
+;; open dotfile quickly
+(defun open-init-file()
+  (interactive)
+  (find-file "~/.emacs.d/init.el"))
